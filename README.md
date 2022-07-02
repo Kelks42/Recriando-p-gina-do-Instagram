@@ -1,1 +1,2 @@
-Recriando página do Instagram
+# *Recriando a página inicial do Instagram!* :superhero_woman: :muscle:
+##### Minha inspiração para recriar a página inicial do Instagram, veio da luta das mulheres que lutam contra a desigualdade no mercado de trabalho. Segundo o relatório Global Gender Gap Report (Relatório Global sobre a Lacuna de Gênero) (2020), do Fórum Econômico Mundial, o Brasil figura a 130º posição em relação à igualdade salarial entre homens e mulheres que exercem funções semelhantes, em um [ranking com 153 países.](https://www.politize.com.br/equidade/blogpost/mulheres-e-o-mercado-de-trabalho/#:~:text=Segundo%20o%20relat%C3%B3rio%20Global%20Gender,um%20ranking%20com%20153%20pa%C3%ADses.)
